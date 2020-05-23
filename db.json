@@ -16,39 +16,48 @@
 "sensors": [
   {
     "sensor_id": 1,
-    "type_id": 1
+    "name": "name1",
+    "type_id": "temperature"
   },
   {
     "sensor_id": 2,
-    "type_id": 2
+    "name": "name2",
+    "type_id": "humidity"
   },
   {
     "sensor_id": 3,
-    "type_id": 3
+    "name": "name3",
+    "type_id": "light"
   },
   {
     "sensor_id": 6,
-    "type_id": 1
+    "name": "name6",
+    "type_id": "temperature"
   },
   {
     "sensor_id": 5,
-    "type_id": 2
+    "name": "name5",
+    "type_id": "humidity"
   },
   {
     "sensor_id": 4,
-    "type_id": 3
+    "name": "name4",
+    "type_id": "light"
   },
   {
     "sensor_id": 7,
-    "type_id": 1
+    "name": "name7",
+    "type_id": "temperature"
   },
   {
     "sensor_id": 9,
-    "type_id": 2
+    "name": "name9",
+    "type_id": "humidity"
   },
   {
     "sensor_id": 8,
-    "type_id": 3
+    "name": "name8",
+    "type_id": "light"
   }
 ],
   "stat": [{"sensor_id":2,"type":"humidity","id":20,"value":67.96,"time":"Fri Jun 05 2020"},{"sensor_id":7,"type":"temperature","id":17,"value":19.59,"time":"Thu May 21 2020"},{"sensor_id":6,"type":"temperature","id":24,"value":11.19,"time":"Sun May 03 2020"},{"sensor_id":4,"type":"light","id":28,"value":1894.93,"time":"Wed May 06 2020"},{"sensor_id":8,"type":"light","id":30,"value":1904.35,"time":"Thu Jun 04 2020"},{"sensor_id":5,"type":"humidity","id":29,"value":36.68,"time":"Wed May 27 2020"},{"sensor_id":1,"type":"temperature","id":26,"value":10.28,"time":"Tue May 19 2020"},{"sensor_id":4,"type":"light","id":28,"value":1894.93,"time":"Wed May 06 2020"},{"sensor_id":1,"type":"temperature","id":26,"value":10.28,"time":"Tue May 19 2020"},{"sensor_id":2,"type":"humidity","id":20,"value":67.96,"time":"Fri Jun 05 2020"},{"sensor_id":8,"type":"light","id":30,"value":1904.35,"time":"Thu Jun 04 2020"},{"sensor_id":3,"type":"light","id":22,"value":146.69,"time":"Tue May 12 2020"},{"sensor_id":3,"type":"light","id":22,"value":146.69,"time":"Tue May 12 2020"},{"sensor_id":2,"type":"humidity","id":20,"value":67.96,"time":"Fri Jun 05 2020"},{"sensor_id":4,"type":"light","id":28,"value":1894.93,"time":"Wed May 06 2020"},{"sensor_id":9,"type":"humidity","id":27,"value":26.3,"time":"Sun May 24 2020"},{"sensor_id":7,"type":"temperature","id":17,"value":19.59,"time":"Thu May 21 2020"},{"sensor_id":9,"type":"humidity","id":27,"value":26.3,"time":"Sun May 24 2020"},{"sensor_id":3,"type":"light","id":22,"value":146.69,"time":"Tue May 12 2020"},{"sensor_id":2,"type":"humidity","id":20,"value":67.96,"time":"Fri Jun 05 2020"},{"sensor_id":8,"type":"light","id":30,"value":1904.35,"time":"Thu Jun 04 2020"},{"sensor_id":3,"type":"light","id":22,"value":146.69,"time":"Tue May 12 2020"},{"sensor_id":4,"type":"light","id":28,"value":1894.93,"time":"Wed May 06 2020"},{"sensor_id":6,"type":"temperature","id":24,"value":11.19,"time":"Sun May 03 2020"},{"sensor_id":4,"type":"light","id":28,"value":1894.93,"time":"Wed May 06 2020"},{"sensor_id":1,"type":"temperature","id":26,"value":10.28,"time":"Tue May 19 2020"},{"sensor_id":9,"type":"humidity","id":27,"value":26.3,"time":"Sun May 24 2020"},{"sensor_id":4,"type":"light","id":28,"value":1894.93,"time":"Wed May 06 2020"},{"sensor_id":5,"type":"humidity","id":29,"value":36.68,"time":"Wed May 27 2020"},{"sensor_id":8,"type":"light","id":30,"value":1904.35,"time":"Thu Jun 04 2020"}]
