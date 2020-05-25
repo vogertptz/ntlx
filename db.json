@@ -1,62 +1,15 @@
 {
-"types": [
-  {
-    "id": 1,
-    "name": "temperature"
-  },
-  {
-    "id": 2,
-    "name": "humidity"
-  },
-  {
-    "id": 3,
-    "name": "light"
-  }
-],
 "sensors": [
   {
     "id": 1,
-    "name": "name1",
     "type": "temperature"
   },
   {
     "id": 2,
-    "name": "name2",
     "type": "humidity"
   },
   {
     "id": 3,
-    "name": "name3",
-    "type": "light"
-  },
-  {
-    "id": 6,
-    "name": "name6",
-    "type": "temperature"
-  },
-  {
-    "id": 5,
-    "name": "name5",
-    "type": "humidity"
-  },
-  {
-    "id": 4,
-    "name": "name4",
-    "type": "light"
-  },
-  {
-    "id": 7,
-    "name": "name7",
-    "type": "temperature"
-  },
-  {
-    "id": 9,
-    "name": "name9",
-    "type": "humidity"
-  },
-  {
-    "id": 8,
-    "name": "name8",
     "type": "light"
   }
 ],
